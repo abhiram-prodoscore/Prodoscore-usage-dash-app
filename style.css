@@ -1,0 +1,8 @@
+#domain_selector {
+    width: 300px;
+    height: 40px;
+    border-radius: 10px;
+    border: 2px solid #007BFF;
+    padding: 5px;
+    font-size: 16px;
+}
